@@ -1,6 +1,6 @@
 # SunHacks2019 
 ### Awards: Best Social Cause, Best Data Science Hack, Best Google Cloud Project
-An App to help people with blindnes.
+An App to help people with blindnes. This app detects items infront of you and inform the blind user in form of speech. We also trained an OpenCV image classifier model with our groups photos to inform if we are presne in room.
 
 ## Steps to deploy and test app engine.
 1. export GOOGLE_APPLICATION_CREDENTIALS='Path to creadentials json from google cloud'
