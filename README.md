@@ -1,4 +1,5 @@
-# SunHacks2019 (Best Social Cause, Best Data Science Hack, Best MLH(major league hacking) Project)
+# SunHacks2019 
+## Best Social Cause, Best Data Science Hack, Best MLH(major league hacking) Project
 An App to help people with blindnes.
 
 ## Steps to deploy and test app engine.
