@@ -1,5 +1,5 @@
 # SunHacks2019 
-### Awards: Best Social Cause, Best Data Science Hack, Best Google Cloud Platform use.
+### Awards: Best Sustainability Hack, Best Data Science Hack, Best use of Google Cloud.
 An App to help people with blindnes. Basic idea is to make blind people do their day to day tasks without much help from another person. 
 
 This app detects items infront of you and inform the blind user in form of speech. We also trained an OpenCV image classifier model with photos of group members to inform if we are present in the room.
